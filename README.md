@@ -20,20 +20,10 @@ This is ada
 ## Features
 
 - **Responsive Design:** The portfolio is fully responsive, ensuring a seamless experience on various devices and screen sizes.
-- **Project Showcase:** Display your projects with project cards that include project names, descriptions, and links to the project or GitHub repository.
-- **Skills Highlight:** List your key skills and technologies, providing potential employers or clients with a quick overview of your expertise.
-- **About Me:** Share information about yourself, your background, and your passion for web development.
-- **Contact Information:** Include contact information, such as an email address and links to your social media profiles, so interested parties can easily get in touch.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   ```
+- **Project Showcase:** Displays projects with project cards that include project names, descriptions, and links to the project.
+- **Skills Highlight:** Lists key skills and technologies, providing potential employers or clients with a quick overview.
+- **About Me:** Shares information about me, my background, and my passion for web development.
+- **Contact Information:** Includes contact information, such as an email address and links to social media profiles.
 
 ## Technologies
 
@@ -52,7 +42,8 @@ The project structure is organized as follows:
 src/
 components/: Contains React components for different sections of the portfolio.
 data/: Data files for your projects, skills, and personal information.
-styles/: Stylesheets and CSS for styling the portfolio.
+app.scss: Main application styling.
+global.scss: global sass for page layout
 App.js: Main application component.
 index.js: Entry point for the React application.
 
