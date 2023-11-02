@@ -38,12 +38,12 @@
 The project structure is organized as follows:
 
 - src/
-- components/: Contains React components for different sections of the portfolio.
-- data.js: Data file for projects.
-- app.scss: Main application styling.
-- global.scss: global sass for page layout
-- App.jsx: Main application component.
-- index.js: Entry point for the React application.
+   - components/: Contains React components for different sections of the portfolio.
+   - data.js: Data file for projects.
+   - app.scss: Main application styling.
+   - global.scss: global sass for page layout
+   - App.jsx: Main application component.
+   - index.js: Entry point for the React application.
 
 ## Contact
 
