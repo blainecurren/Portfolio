@@ -1,6 +1,6 @@
 # Web Developer Portfolio
 
-This is a web developer portfolio created using React, designed to showcase my skills, projects, and experience in the field of web development.
+This is ada
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ This is a web developer portfolio created using React, designed to showcase my s
 
 ## Demo
 
-[View the live demo](#) to see the portfolio in action.
+[View the live demo](https://beamish-pastelito-94935e.netlify.app/) to see the portfolio in action.
 
 ## Features
 
