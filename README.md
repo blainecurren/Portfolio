@@ -1,6 +1,4 @@
-# Web Developer Portfolio
-
-This is ada
+# Portfolio
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ This is ada
 
 ## Demo
 
-[View the live demo](https://beamish-pastelito-94935e.netlify.app/) to see the portfolio in action.
+[Click here](https://beamish-pastelito-94935e.netlify.app/) to see my portfolio in action.
 
 ## Features
 
@@ -41,10 +39,10 @@ The project structure is organized as follows:
 
 src/
 components/: Contains React components for different sections of the portfolio.
-data/: Data files for your projects, skills, and personal information.
+data.js: Data file for projects.
 app.scss: Main application styling.
 global.scss: global sass for page layout
-App.js: Main application component.
+App.jsx: Main application component.
 index.js: Entry point for the React application.
 
 ## Contact
@@ -52,5 +50,7 @@ index.js: Entry point for the React application.
 If you have any questions, suggestions, or would like to connect, please feel free to reach out:
 
 Email: blaine.curren@gmail.com
+
 LinkedIn: [Blaine Curren](https://www.linkedin.com/in/blaine-curren-27657690)
+
 GitHub: [blainecurren](https://github.com/blainecurren)
