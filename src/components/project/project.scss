@@ -33,13 +33,12 @@
 }
 
 .container {
-  margin:  50px;
-  width: 50%;
+  margin: 50px;
+  width: 90%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap;
-  flex-direction: row;
+  flex-flow: row wrap;
 
   @include tablet {
     width: 100%;
@@ -50,8 +49,8 @@
   }
 
   .item {
-    width: 350px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
     border-radius: 20px;
     border: 1px solid rgb(240, 239, 239);
     margin: 10px 20px;

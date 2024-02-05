@@ -25,7 +25,7 @@ export const featured = [
   },
   {
     id: 2,
-    title: "Robot Gladiators",
+    title: "ClimaView",
     img: robo,
     link: "https://blainecurren.github.io/robot-gladiators/",
   },
@@ -40,18 +40,6 @@ export const featured = [
     title: "Healthy Craves",
     img: health,
     link: "https://blainecurren.github.io/healthy-craves/",
-  },
-  {
-    id: 5,
-    title: "Password Generator",
-    img: password,
-    link: "https://blainecurren.github.io/password-generator/",
-  },
-  {
-    id: 6,
-    title: "Shop Shop",
-    img: shop,
-    link: "https://github.com/blainecurren",
   },
 ];
 

@@ -11,18 +11,6 @@ export default function Project() {
       id: "featured",
       title: "Featured",
     },
-    {
-      id: "frontEnd",
-      title: "Front End",
-    },
-    {
-      id: "backEnd",
-      title: "Back End",
-    },
-    {
-      id: "fullStack",
-      title: "Full Stack",
-    },
   ];
 
   useEffect(() => {
