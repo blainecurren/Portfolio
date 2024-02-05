@@ -1,4 +1,3 @@
-import clima from "../src/img/climaView.png";
 import buddy from "../src/img/run-buddy.png";
 import pizza from "../src/img/pizza-hunt.png";
 import shop from "../src/img/shop-shop.png";
@@ -27,7 +26,7 @@ export const featured = [
   {
     id: 2,
     title: "ClimaView",
-    img: clima,
+    img: weather,
     link: "https://blainecurren.github.io/robot-gladiators/",
   },
   {
@@ -54,7 +53,7 @@ export const frontEnd = [
   {
     id: 2,
     title: "Robot Gladiators",
-    img: clima,
+    img: weather,
     link: "https://blainecurren.github.io/robot-gladiators/",
   },
   {
