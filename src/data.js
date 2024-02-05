@@ -1,4 +1,4 @@
-import robo from "../src/img/robot-glad.jpg";
+import clima from "../src/img/climaView.png";
 import buddy from "../src/img/run-buddy.png";
 import pizza from "../src/img/pizza-hunt.png";
 import shop from "../src/img/shop-shop.png";
@@ -15,6 +15,7 @@ import jest from "../src/img/jest.png";
 import weather from "../src/img/weather-dash.png";
 import health from "../src/img/healthy-craves.png";
 import password from "../src/img/password-generator.png";
+import brainStormer from "../src/img/brainStormer.png";
 
 export const featured = [
   {
@@ -26,19 +27,19 @@ export const featured = [
   {
     id: 2,
     title: "ClimaView",
-    img: robo,
+    img: clima,
     link: "https://blainecurren.github.io/robot-gladiators/",
   },
   {
     id: 3,
-    title: "Weather Dashboard",
+    title: "Estate Evalu8",
     img: weather,
     link: "https://blainecurren.github.io/Weather-Dashboard/",
   },
   {
     id: 4,
-    title: "Healthy Craves",
-    img: health,
+    title: "BrainStormer",
+    img: brainStormer,
     link: "https://blainecurren.github.io/healthy-craves/",
   },
 ];
@@ -53,7 +54,7 @@ export const frontEnd = [
   {
     id: 2,
     title: "Robot Gladiators",
-    img: robo,
+    img: clima,
     link: "https://blainecurren.github.io/robot-gladiators/",
   },
   {

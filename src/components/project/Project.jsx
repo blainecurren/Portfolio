@@ -32,7 +32,7 @@ export default function Project() {
 
   return (
     <div className="project" id="project">
-      <h1>Some(all) of my projects lol</h1>
+      <h1>Projects</h1>
       <ul>
         {list.map((item) => (
           <ProjectList
@@ -49,7 +49,7 @@ export default function Project() {
             <a href={d.link}>
               <img src={d.img} alt="" />
             </a>
-            <h3>{d.title}</h3>
+            <h2>{d.title}</h2>
           </div>
         ))}
       </div>
