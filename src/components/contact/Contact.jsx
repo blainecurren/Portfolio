@@ -6,7 +6,6 @@ import Address from "../../img/address.png";
 import { useRef, useState } from "react";
 import emailjs from "emailjs-com";
 
-
 const Contact = () => {
   const form = useRef();
   const [done, setDone] = useState(false);
@@ -54,10 +53,6 @@ const Contact = () => {
           </div>
         </div>
         <div className="c-right">
-          <p className="c-desc">
-            <b>Want to work together?</b> Feel free to get in touch with me down
-            below. Go ahead, try it, it works I promise.
-          </p>
           <form ref={form} onSubmit={handleSubmit}>
             <input type="text" placeholder="Name" name="user_name" />
             <input type="text" placeholder="Subject" name="user_subject" />
@@ -68,7 +63,6 @@ const Contact = () => {
           </form>
         </div>
       </div>
-     
     </div>
   );
 };
